@@ -1,0 +1,26 @@
+{
+  "name": "js-rest-api",
+  "version": "1.0.0",
+  "description": "A basic Javascript REST API project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oluizeduardo/js-rest-api.git"
+  },
+  "keywords": [
+    "Javascript",
+    "REST"
+  ],
+  "author": "Luiz Eduardo Costa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oluizeduardo/js-rest-api/issues"
+  },
+  "homepage": "https://github.com/oluizeduardo/js-rest-api#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
