@@ -6,6 +6,7 @@ const app = express()
 const PORT = 3000
 
 // Required when using urlencoded format.
+// Exemple: Send a through
 app.use(bodyParser.urlencoded({extended: true}))
 
 app.listen(PORT, () => {
